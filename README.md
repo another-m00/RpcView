@@ -1,4 +1,10 @@
-﻿# RpcView
+﻿This fork will *one day* add an automatic compiler script.
+
+Currently the script is not in an usable state.
+---
+Original text:
+
+# RpcView
 
 RpcView is an open-source tool to explore and decompile all RPC functionalities present on a Microsoft system.
 
